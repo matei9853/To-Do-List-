@@ -1,6 +1,3 @@
-# To-Do-List-
-First project . A simple 'to-do list' manager build in c++
-
 # To-Do List Manager
 
 A simple command-line to-do list application written in C++. This project helps you manage your daily tasks with features to add, view, complete, and delete tasks. All tasks are saved to a file for persistence.
